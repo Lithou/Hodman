@@ -1,0 +1,302 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11090,6315887,11090,Bar Holder with Clip,11,0,Black,Solid Colors,12,0.24
+11211,6138173,11211,"Brick, Modified 1 x 2 with Studs on 1 Side",11,0,Black,Solid Colors,5,0.86
+11212,6174917,11212,Plate 3 x 3,11,0,Black,Solid Colors,16,1.25
+11476,6313116,11476,"Plate, Modified 1 x 2 with Clip on Side (Horizontal Grip)",11,0,Black,Solid Colors,12,0.46
+11477,6029946,11477,"Slope, Curved 2 x 1",5,4,Red,Solid Colors,2,0.31
+11477,6047276,11477,"Slope, Curved 2 x 1",11,0,Black,Solid Colors,4,0.31
+14413,6039347,14413,"Brick, Modified Facet 4 x 4",11,0,Black,Solid Colors,4,2.16
+14719,6247784,14719,Tile 2 x 2 Corner,85,72,Dark Bluish Gray,Solid Colors,2,0.43
+14719,6133722,14719,Tile 2 x 2 Corner,11,0,Black,Solid Colors,10,0.43
+14769,6070695,14769,"Tile, Round 2 x 2 with Bottom Stud Holder",11,0,Black,Solid Colors,2,0.33
+15068,6053077,15068,"Slope, Curved 2 x 2",11,0,Black,Solid Colors,18,0.57
+15070,6173959,15070,"Plate, Modified 1 x 1 with Tooth Vertical",11,0,Black,Solid Colors,2,0.25
+15461,,15461,"Technic, Pin Connector 3L with 2 Pins and Center Hole",5,4,Red,Solid Colors,70,0.69
+15571,6076203,15571,Slope 45 2 x 1 Triple with Bottom Stud Holder,85,72,Dark Bluish Gray,Solid Colors,6,0.34
+15571,6051508,15571,Slope 45 2 x 1 Triple with Bottom Stud Holder,11,0,Black,Solid Colors,12,0.34
+15573,6092585,15573,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper)",11,0,Black,Solid Colors,6,0.3
+15712,6335388,15712,"Tile, Modified 1 x 1 with Open O Clip",11,0,Black,Solid Colors,34,0.2
+18674,6195325,18674,"Tile, Round 2 x 2 with Open Stud",11,0,Black,Solid Colors,4,0.35
+18674,6115080,18674,"Tile, Round 2 x 2 with Open Stud",85,72,Dark Bluish Gray,Solid Colors,2,0.35
+18677,6192309,18677,"Plate, Modified 1 x 2 with Pin Hole on Bottom",11,0,Black,Solid Colors,2,0.4
+23443,6321194,23443,Bar Holder with Handle,11,0,Black,Solid Colors,12,0.28
+2357,235726,2357,Brick 2 x 2 Corner,11,0,Black,Solid Colors,8,1.25
+2357,235721,2357,Brick 2 x 2 Corner,5,4,Red,Solid Colors,4,1.25
+2412b,4210631,2412b,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",85,72,Dark Bluish Gray,Solid Colors,1,0.23
+2412b,4619636,2412b,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",95,179,Flat Silver,Pearl Colors,12,0.23
+2412b,6228922,2412b,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",68,484,Dark Orange,Solid Colors,38,0.23
+2412b,241226,2412b,"Tile, Modified 1 x 2 Grille with Bottom Groove / Lip",11,0,Black,Solid Colors,108,0.23
+2420,242026,2420,Plate 2 x 2 Corner,11,0,Black,Solid Colors,16,0.54
+2420,242021,2420,Plate 2 x 2 Corner,5,4,Red,Solid Colors,2,0.54
+24201,6147050,24201,"Slope, Curved 2 x 1 Inverted",11,0,Black,Solid Colors,6,0.36
+24201,6186398,24201,"Slope, Curved 2 x 1 Inverted",5,4,Red,Solid Colors,2,0.36
+24201,6215212,24201,"Slope, Curved 2 x 1 Inverted",85,72,Dark Bluish Gray,Solid Colors,6,0.36
+24299,6143423,24299,"Wedge, Plate 2 x 2 Left",85,72,Dark Bluish Gray,Solid Colors,4,0.44
+24299,6141554,24299,"Wedge, Plate 2 x 2 Left",11,0,Black,Solid Colors,15,0.44
+24307,6143417,24307,"Wedge, Plate 2 x 2 Right",85,72,Dark Bluish Gray,Solid Colors,4,0.44
+24307,6141556,24307,"Wedge, Plate 2 x 2 Right",11,0,Black,Solid Colors,11,0.44
+2431,243126,2431,Tile 1 x 4,11,0,Black,Solid Colors,40,0.54
+2431,6074893,2431,Tile 1 x 4,68,484,Dark Orange,Solid Colors,44,0.54
+2432,243226,2432,"Tile, Modified 1 x 2 with Bar Handle",11,0,Black,Solid Colors,4,0.58
+2445,4255035,2445,Plate 2 x 12,5,4,Red,Solid Colors,2,3.5
+2445,244526,2445,Plate 2 x 12,11,0,Black,Solid Colors,2,3.5
+2450,6071231,2450,"Wedge, Plate 3 x 3 Cut Corner",68,484,Dark Orange,Solid Colors,2,1.08
+2450,4210897,2450,"Wedge, Plate 3 x 3 Cut Corner",85,72,Dark Bluish Gray,Solid Colors,6,1.08
+2450,4227684,2450,"Wedge, Plate 3 x 3 Cut Corner",11,0,Black,Solid Colors,6,1.08
+2456,4181144,2456,Brick 2 x 6,11,0,Black,Solid Colors,6,3.74
+2456,4181138,2456,Brick 2 x 6,5,4,Red,Solid Colors,6,3.74
+2462,4189116,2462,"Brick, Modified Facet 3 x 3",11,0,Black,Solid Colors,8,1.46
+2462,4582257,2462,"Brick, Modified Facet 3 x 3",85,72,Dark Bluish Gray,Solid Colors,8,1.46
+2465,4264963,2465,Brick 1 x 16,3,14,Yellow,Solid Colors,1,6.2
+2465,246501,2465,Brick 1 x 16,1,15,White,Solid Colors,1,6.2
+2465,246521,2465,Brick 1 x 16,5,4,Red,Solid Colors,14,6.2
+25269,6228968,25269,"Tile, Round 1 x 1 Quarter",68,484,Dark Orange,Solid Colors,10,0.1
+26047,6157554,26047,"Plate, Round 1 x 1 with Bar Handle on Side",11,0,Black,Solid Colors,24,0.3
+26047,,26047,"Plate, Round 1 x 1 with Bar Handle on Side",5,4,Red,Solid Colors,2,0.3
+2654,4278274,2654,"Plate, Round 2 x 2 with Rounded Bottom (Boat Stud)",85,72,Dark Bluish Gray,Solid Colors,2,0.45
+2654,6171733,2654,"Plate, Round 2 x 2 with Rounded Bottom (Boat Stud)",15,43,Trans-Light Blue,Transparent Colors,1,0.45
+2654,4278359,2654,"Plate, Round 2 x 2 with Rounded Bottom (Boat Stud)",11,0,Black,Solid Colors,8,0.45
+26601,6164073,26601,"Wedge, Plate 2 x 2 Cut Corner",85,72,Dark Bluish Gray,Solid Colors,4,0.5
+26601,6174243,26601,"Wedge, Plate 2 x 2 Cut Corner",11,0,Black,Solid Colors,59,0.5
+26603,6187008,26603,Tile 2 x 3,85,72,Dark Bluish Gray,Solid Colors,2,0.68
+26603,6162892,26603,Tile 2 x 3,11,0,Black,Solid Colors,12,0.68
+27263,6253425,27263,"Tile, Modified Facet 2 x 2 Corner with Cut Corner",68,484,Dark Orange,Solid Colors,4,0.33
+2730,273021,2730,"Technic, Brick 1 x 10 with Holes",5,4,Red,Solid Colors,10,3.67
+2780,6279875,2780,"Technic, Pin with Friction Ridges Lengthwise, Staggered, with or without Center Slots",11,0,Black,Solid Colors,8,0.16
+2780,,2780,"Technic, Pin with Friction Ridges Lengthwise, Staggered, with or without Center Slots",5,4,Red,Solid Colors,198,0.16
+28192,6168776,28192,Slope 45 2 x 1 with Cutout without Stud,85,72,Dark Bluish Gray,Solid Colors,2,0.41
+28192,6275178,28192,Slope 45 2 x 1 with Cutout without Stud,5,4,Red,Solid Colors,2,0
+29119,6181713,29119,Wedge 2 x 1 with Stud Notch Right,11,0,Black,Solid Colors,4,0.23
+29120,6181720,29120,Wedge 2 x 1 with Stud Notch Left,11,0,Black,Solid Colors,4,0.23
+3001,300126,3001,Brick 2 x 4,11,0,Black,Solid Colors,38,2.32
+3001,4211085,3001,Brick 2 x 4,85,72,Dark Bluish Gray,Solid Colors,8,2.32
+3001,300121,3001,Brick 2 x 4,5,4,Red,Solid Colors,17,2.32
+3001,300123,3001,Brick 2 x 4,7,1,Blue,Solid Colors,1,2.32
+3002,300226,3002,Brick 2 x 3,11,0,Black,Solid Colors,6,1.92
+3003,4211060,3003,Brick 2 x 2,85,72,Dark Bluish Gray,Solid Colors,13,1.35
+3003,300326,3003,Brick 2 x 2,11,0,Black,Solid Colors,9,1.35
+3004,300426,3004,Brick 1 x 2,11,0,Black,Solid Colors,89,0.8
+3004,300421,3004,Brick 1 x 2,5,4,Red,Solid Colors,7,0.8
+3005,300526,3005,Brick 1 x 1,11,0,Black,Solid Colors,20,0.44
+3005,300521,3005,Brick 1 x 1,5,4,Red,Solid Colors,2,0.44
+3007,6036408,3007,Brick 2 x 8,5,4,Red,Solid Colors,4,4.75
+3008,300821,3008,Brick 1 x 8,5,4,Red,Solid Colors,2,3.21
+3008,300826,3008,Brick 1 x 8,11,0,Black,Solid Colors,12,3.21
+3009,300921,3009,Brick 1 x 6,5,4,Red,Solid Colors,2,2.42
+3009,300926,3009,Brick 1 x 6,11,0,Black,Solid Colors,28,2.42
+3010,301026,3010,Brick 1 x 4,11,0,Black,Solid Colors,31,1.64
+3010,301021,3010,Brick 1 x 4,5,4,Red,Solid Colors,6,1.64
+3010,4211103,3010,Brick 1 x 4,85,72,Dark Bluish Gray,Solid Colors,1,1.64
+3020,302021,3020,Plate 2 x 4,5,4,Red,Solid Colors,18,1.2
+3020,302024,3020,Plate 2 x 4,3,14,Yellow,Solid Colors,2,1.2
+3020,4211065,3020,Plate 2 x 4,85,72,Dark Bluish Gray,Solid Colors,22,1.2
+3020,4535928,3020,Plate 2 x 4,68,484,Dark Orange,Solid Colors,4,1.2
+3020,302026,3020,Plate 2 x 4,11,0,Black,Solid Colors,128,1.2
+3020,302001,3020,Plate 2 x 4,1,15,White,Solid Colors,2,1.2
+3021,302121,3021,Plate 2 x 3,5,4,Red,Solid Colors,5,0.93
+3021,4211043,3021,Plate 2 x 3,85,72,Dark Bluish Gray,Solid Colors,16,0.93
+3021,302126,3021,Plate 2 x 3,11,0,Black,Solid Colors,67,0.93
+3022,6003033,3022,Plate 2 x 2,110,191,Bright Light Orange,Solid Colors,2,0.64
+3022,302226,3022,Plate 2 x 2,11,0,Black,Solid Colors,81,0.64
+3022,302221,3022,Plate 2 x 2,5,4,Red,Solid Colors,53,0.64
+3022,4615606,3022,Plate 2 x 2,68,484,Dark Orange,Solid Colors,2,0.64
+3022,4211094,3022,Plate 2 x 2,85,72,Dark Bluish Gray,Solid Colors,8,0.64
+3023,302326,3023,Plate 1 x 2,11,0,Black,Solid Colors,107,0.36
+3023,4211063,3023,Plate 1 x 2,85,72,Dark Bluish Gray,Solid Colors,28,0.36
+3023,4570877,3023,Plate 1 x 2,68,484,Dark Orange,Solid Colors,8,0.36
+3023,302321,3023,Plate 1 x 2,5,4,Red,Solid Colors,22,0.36
+3024,302426,3024,Plate 1 x 1,11,0,Black,Solid Colors,46,0.2
+3028,302826,3028,Plate 6 x 12,11,0,Black,Solid Colors,4,9.47
+3029,302926,3029,Plate 4 x 12,11,0,Black,Solid Colors,5,6.76
+3030,4211122,3030,Plate 4 x 10,85,72,Dark Bluish Gray,Solid Colors,4,5.55
+3030,303026,3030,Plate 4 x 10,11,0,Black,Solid Colors,18,5.55
+3031,4243819,3031,Plate 4 x 4,11,0,Black,Solid Colors,10,2.22
+3032,4211115,3032,Plate 4 x 6,85,72,Dark Bluish Gray,Solid Colors,1,3.3
+3032,303226,3032,Plate 4 x 6,11,0,Black,Solid Colors,30,3.3
+3033,303326,3033,Plate 6 x 10,11,0,Black,Solid Colors,6,7.95
+3034,303423,3034,Plate 2 x 8,7,1,Blue,Solid Colors,2,2.27
+3034,303424,3034,Plate 2 x 8,3,14,Yellow,Solid Colors,1,2.27
+3034,303426,3034,Plate 2 x 8,11,0,Black,Solid Colors,18,2.27
+3034,303401,3034,Plate 2 x 8,1,15,White,Solid Colors,1,2.27
+3034,4210997,3034,Plate 2 x 8,85,72,Dark Bluish Gray,Solid Colors,2,2.27
+3034,303421,3034,Plate 2 x 8,5,4,Red,Solid Colors,16,2.27
+3035,303526,3035,Plate 4 x 8,11,0,Black,Solid Colors,28,4.7
+3035,303521,3035,Plate 4 x 8,5,4,Red,Solid Colors,1,4.7
+3036,303626,3036,Plate 6 x 8,11,0,Black,Solid Colors,7,6.4
+30363,4210637,30363,Slope 18 4 x 2,85,72,Dark Bluish Gray,Solid Colors,4,1.71
+30363,4185583,30363,Slope 18 4 x 2,11,0,Black,Solid Colors,4,1.71
+3037,303726,3037,Slope 45 2 x 4,11,0,Black,Solid Colors,48,1.97
+30374,6116604,30374,Bar   4L (Lightsaber Blade / Wand),11,0,Black,Solid Colors,31,0.3
+3039,4211054,3039,Slope 45 2 x 2,85,72,Dark Bluish Gray,Solid Colors,4,1.15
+3039,303926,3039,Slope 45 2 x 2,11,0,Black,Solid Colors,29,1.15
+3040,4211135,3040,Slope 45 2 x 1,85,72,Dark Bluish Gray,Solid Colors,2,0.69
+3040,4121966,3040,Slope 45 2 x 1,11,0,Black,Solid Colors,30,0.69
+3044c,4226221,3044c,Slope 45 2 x 1 Double with Bottom Stud Holder,85,72,Dark Bluish Gray,Solid Colors,4,0.45
+3048c,4552203,3048c,Slope 45 2 x 1 Triple with Inside Bar,85,72,Dark Bluish Gray,Solid Colors,16,0.34
+3049b,,3049b,Slope 45 2 x 1 Double / Inverted - without Bottom Tube or Bottom Stud Holder,85,72,Dark Bluish Gray,Solid Colors,12,0.49
+30503,4210728,30503,"Wedge, Plate 4 x 4 Cut Corner",85,72,Dark Bluish Gray,Solid Colors,2,1.6
+30503,4160025,30503,"Wedge, Plate 4 x 4 Cut Corner",11,0,Black,Solid Colors,6,1.6
+3068b,4211055,3068b,Tile 2 x 2 with Groove,85,72,Dark Bluish Gray,Solid Colors,8,0.48
+3068b,306826,3068b,Tile 2 x 2 with Groove,11,0,Black,Solid Colors,67,0.48
+3069b,4211052,3069b,Tile 1 x 2 with Groove,85,72,Dark Bluish Gray,Solid Colors,66,0.26
+3069b,306921,3069b,Tile 1 x 2 with Groove,5,4,Red,Solid Colors,2,0.26
+3069b,306926,3069b,Tile 1 x 2 with Groove,11,0,Black,Solid Colors,243,0.26
+3069b,4614158,3069b,Tile 1 x 2 with Groove,68,484,Dark Orange,Solid Colors,146,0.26
+3070b,307026,3070b,Tile 1 x 1 with Groove (3070),11,0,Black,Solid Colors,71,0.16
+3070b,6143431,3070b,Tile 1 x 1 with Groove (3070),68,484,Dark Orange,Solid Colors,27,0.16
+3070b,4210848,3070b,Tile 1 x 1 with Groove (3070),85,72,Dark Bluish Gray,Solid Colors,16,0.16
+32000,3200026,32000,"Technic, Brick 1 x 2 with Holes",11,0,Black,Solid Colors,6,0.72
+32018,4161723,32018,"Technic, Brick 1 x 14 with Holes",1,15,White,Solid Colors,2,4.92
+32018,4173800,32018,"Technic, Brick 1 x 14 with Holes",5,4,Red,Solid Colors,23,4.92
+32028,4616022,32028,"Plate, Modified 1 x 2 with Door Rail",68,484,Dark Orange,Solid Colors,39,0.44
+32028,4543086,32028,"Plate, Modified 1 x 2 with Door Rail",85,72,Dark Bluish Gray,Solid Colors,16,0.44
+32028,4107761,32028,"Plate, Modified 1 x 2 with Door Rail",11,0,Black,Solid Colors,44,0.44
+32064,6196217,32064,"Technic, Brick 1 x 2 with Axle Hole",5,4,Red,Solid Colors,2,0.88
+32140,6271825,32140,"Technic, Liftarm, Modified Bent Thick L-Shape 2 x 4",11,0,Black,Solid Colors,2,1.43
+32324,,32324,"Technic, Brick 4 x 4 Open Center",5,4,Red,Solid Colors,12,4.25
+3245b,4618852,3245b,Brick 1 x 2 x 2 with Inside Axle Holder,11,0,Black,Solid Colors,16,1.47
+3245b,4210978,3245b,Brick 1 x 2 x 2 with Inside Axle Holder,85,72,Dark Bluish Gray,Solid Colors,4,1.47
+40344,4195928,40344,"Technic, Brick 4 x 6 Open Center",5,4,Red,Solid Colors,11,5.0
+40345,,40345,"Technic, Brick 6 x 8 Open Center",5,4,Red,Solid Colors,24,8
+32555,4249189,32555,"Technic, Brick 5 x 5 Right Angle (1 x 4 - 1 x 4)",5,4,Red,Solid Colors,12,3.35
+32803,6211476,32803,"Slope, Curved 2 x 2 Inverted",11,0,Black,Solid Colors,80,0.67
+33909,6192346,33909,"Tile, Modified 2 x 2 with Studs on Edge",11,0,Black,Solid Colors,9,0.57
+3460,346026,3460,Plate 1 x 8,11,0,Black,Solid Colors,20,1.36
+3460,4210998,3460,Plate 1 x 8,85,72,Dark Bluish Gray,Solid Colors,2,1.36
+35787,6214807,35787,"Tile, Modified 2 x 2 Triangular",11,0,Black,Solid Colors,4,0.24
+3622,362221,3622,Brick 1 x 3,5,4,Red,Solid Colors,4,1.24
+3622,362226,3622,Brick 1 x 3,11,0,Black,Solid Colors,17,1.24
+3622,4211104,3622,Brick 1 x 3,85,72,Dark Bluish Gray,Solid Colors,9,1.24
+3623,362326,3623,Plate 1 x 3,11,0,Black,Solid Colors,31,0.53
+3660,366026,3660,"Slope, Inverted 45 2 x 2",11,0,Black,Solid Colors,24,1.25
+3660,4211000,3660,"Slope, Inverted 45 2 x 2",85,72,Dark Bluish Gray,Solid Colors,22,1.25
+3665,366526,3665,"Slope, Inverted 45 2 x 1",11,0,Black,Solid Colors,14,0.66
+3665,4211096,3665,"Slope, Inverted 45 2 x 1",85,72,Dark Bluish Gray,Solid Colors,6,0.66
+3666,366626,3666,Plate 1 x 6,11,0,Black,Solid Colors,53,1.06
+3666,366621,3666,Plate 1 x 6,5,4,Red,Solid Colors,1,1.06
+3666,4211056,3666,Plate 1 x 6,85,72,Dark Bluish Gray,Solid Colors,6,1.06
+3666,6253418,3666,Plate 1 x 6,68,484,Dark Orange,Solid Colors,1,1.06
+3676,6123840,3676,"Slope, Inverted 45 2 x 2 Double Convex",11,0,Black,Solid Colors,2,1.13
+3678b,4273703,3678b,Slope 65 2 x 2 x 2 with Bottom Tube,11,0,Black,Solid Colors,4,2.09
+3680c02,4221774,3680c02,"Turntable 2 x 2 Plate, Base with Light Bluish Gray Turntable 2 x 2 Plate, Top (3680 / 3679)",11,0,Black,Solid Colors,2,0.66
+3701,370121,3701,"Technic, Brick 1 x 4 with Holes",5,4,Red,Solid Colors,2,1.46
+3702,370221,3702,"Technic, Brick 1 x 8 with Holes",5,4,Red,Solid Colors,4,2.85
+3703,370321,3703,"Technic, Brick 1 x 16 with Holes",5,4,Red,Solid Colors,4,5.87
+3710,4211001,3710,Plate 1 x 4,85,72,Dark Bluish Gray,Solid Colors,9,0.71
+3710,371021,3710,Plate 1 x 4,5,4,Red,Solid Colors,11,0.71
+3710,371026,3710,Plate 1 x 4,11,0,Black,Solid Colors,79,0.71
+3713,6275844,3713,Technic Bush,86,71,Light Bluish Gray,Solid Colors,1,0.14
+3794a,379426,3794a,"Plate, Modified 1 x 2 with 1 Stud without Groove (Jumper)",11,0,Black,Solid Colors,10,0.3
+3794b,379426,3794b,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)",11,0,Black,Solid Colors,2,0.3
+3794b,6037797,3794b,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)",68,484,Dark Orange,Solid Colors,1,0.3
+3794b,379421,3794b,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper)",5,4,Red,Solid Colors,4,0.3
+3795,4211002,3795,Plate 2 x 6,85,72,Dark Bluish Gray,Solid Colors,46,1.74
+3795,6219673,3795,Plate 2 x 6,68,484,Dark Orange,Solid Colors,5,1.74
+3795,379521,3795,Plate 2 x 6,5,4,Red,Solid Colors,7,1.74
+3795,379523,3795,Plate 2 x 6,7,1,Blue,Solid Colors,1,1.74
+3795,379526,3795,Plate 2 x 6,11,0,Black,Solid Colors,58,1.74
+3832,383224,3832,Plate 2 x 10,3,14,Yellow,Solid Colors,1,2.91
+3832,383221,3832,Plate 2 x 10,5,4,Red,Solid Colors,9,2.91
+3832,383226,3832,Plate 2 x 10,11,0,Black,Solid Colors,8,2.91
+3832,383201,3832,Plate 2 x 10,1,15,White,Solid Colors,1,2.91
+3894,389421,3894,"Technic, Brick 1 x 6 with Holes",5,4,Red,Solid Colors,6,2.2
+3937,393726,3937,Hinge Brick 1 x 2 Base,11,0,Black,Solid Colors,4,0.48
+3937,4211066,3937,Hinge Brick 1 x 2 Base,85,72,Dark Bluish Gray,Solid Colors,2,0.48
+3941,614326,3941,"Brick, Round 2 x 2 with Axle Hole",11,0,Black,Solid Colors,44,1.2
+3958,395826,3958,Plate 6 x 6,11,0,Black,Solid Colors,2,4.71
+3961,6249387,3961,Dish 8 x 8 Inverted (Radar) - Solid Studs,39,3,Dark Turquoise,Solid Colors,1,4.57
+4032,403226,4032,"Plate, Round 2 x 2 with Axle Hole",11,0,Black,Solid Colors,14,0.37
+4070,407026,4070,"Brick, Modified 1 x 1 with Headlight",11,0,Black,Solid Colors,29,0.36
+4070,4211044,4070,"Brick, Modified 1 x 1 with Headlight",85,72,Dark Bluish Gray,Solid Colors,24,0.36
+41539,4166619,41539,Plate 8 x 8,11,0,Black,Solid Colors,10,9.4
+4162,4211008,4162,Tile 1 x 8,85,72,Dark Bluish Gray,Solid Colors,4,1.06
+4162,416226,4162,Tile 1 x 8,11,0,Black,Solid Colors,8,1.06
+41769,4210782,41769,"Wedge, Plate 4 x 2 Right",85,72,Dark Bluish Gray,Solid Colors,1,0.83
+41769,4160869,41769,"Wedge, Plate 4 x 2 Right",11,0,Black,Solid Colors,5,0.83
+41770,4161332,41770,"Wedge, Plate 4 x 2 Left",11,0,Black,Solid Colors,3,0.83
+41770,4210788,41770,"Wedge, Plate 4 x 2 Left",85,72,Dark Bluish Gray,Solid Colors,1,0.83
+4274,,4274,"Technic, Pin 1/2",5,4,Red,Solid Colors,12,0.1
+4285b,6246896,4285b,Dish 6 x 6 Inverted (Radar) Webbed - Type 2 (underside attachment positions at 90 degrees),15,43,Trans-Light Blue,Transparent Colors,1,1.73
+4286,428626,4286,Slope 33 3 x 1,11,0,Black,Solid Colors,44,0.98
+4287,428721,4287,"Slope, Inverted 33 3 x 1",5,4,Red,Solid Colors,4,0.94
+43093,4206482,43093,"Technic, Axle 1 with Pin with Friction Ridges Lengthwise",7,1,Blue,Solid Colors,2,0.26
+43710,6040297,43710,Wedge 4 x 2 Triple Left,11,0,Black,Solid Colors,1,1.3
+43711,6040298,43711,Wedge 4 x 2 Triple Right,11,0,Black,Solid Colors,1,1.3
+43722,4180508,43722,"Wedge, Plate 3 x 2 Right",11,0,Black,Solid Colors,12,0.64
+43722,6070136,43722,"Wedge, Plate 3 x 2 Right",68,484,Dark Orange,Solid Colors,15,0.64
+43723,4180536,43723,"Wedge, Plate 3 x 2 Left",11,0,Black,Solid Colors,7,0.64
+43723,6070135,43723,"Wedge, Plate 3 x 2 Left",68,484,Dark Orange,Solid Colors,15,0.64
+44301a,4183043,44301a,Hinge Plate 1 x 2 Locking with 1 Finger On End with Bottom Groove,11,0,Black,Solid Colors,4,0.5
+44301a,4210883,44301a,Hinge Plate 1 x 2 Locking with 1 Finger On End with Bottom Groove,85,72,Dark Bluish Gray,Solid Colors,28,0.5
+44302a,4183060,44302a,Hinge Plate 1 x 2 Locking with 2 Fingers on End and 9 Teeth with Bottom Groove,11,0,Black,Solid Colors,4,0.5
+44302a,4210884,44302a,Hinge Plate 1 x 2 Locking with 2 Fingers on End and 9 Teeth with Bottom Groove,85,72,Dark Bluish Gray,Solid Colors,28,0.5
+44567a,4185620,44567a,Hinge Plate 1 x 2 Locking with 1 Finger on Side with Bottom Groove,11,0,Black,Solid Colors,22,0.51
+44567b,6266244,44567b,Hinge Plate 1 x 2 Locking with 1 Finger on Side without Bottom Groove,11,0,Black,Solid Colors,30,0.51
+4459,,4459,"Technic, Pin with Friction Ridges Lengthwise without Center Slots",11,0,Black,Solid Colors,4,0.19
+4477,447726,4477,Plate 1 x 10,11,0,Black,Solid Colors,16,1.61
+4477,447721,4477,Plate 1 x 10,5,4,Red,Solid Colors,4,1.61
+4599a,459926,4599a,Tap 1 x 1 with Hole in Nozzle End,11,0,Black,Solid Colors,4,0
+48205,6258209,48205,"Wedge, Plate 6 x 4 Right",11,0,Black,Solid Colors,2,0
+48205,6266298,48205,"Wedge, Plate 6 x 4 Right",85,72,Dark Bluish Gray,Solid Colors,2,0
+48208,6258214,48208,"Wedge, Plate 6 x 4 Left",11,0,Black,Solid Colors,2,0
+48208,6266299,48208,"Wedge, Plate 6 x 4 Left",85,72,Dark Bluish Gray,Solid Colors,2,0
+48336,4225201,48336,"Plate, Modified 1 x 2 with Bar Handle on Side with Closed Ends",11,0,Black,Solid Colors,20,0.54
+48336,6146321,48336,"Plate, Modified 1 x 2 with Bar Handle on Side with Closed Ends",85,72,Dark Bluish Gray,Solid Colors,2,0.54
+4861,6013539,4861,Slope 45 3 x 4 Double / 33,85,72,Dark Bluish Gray,Solid Colors,2,2.0
+4865,6146220,4865,Panel 1 x 2 x 1,11,0,Black,Solid Colors,4,0.46
+48729,4289538,48729,Bar   1L with Clip Mechanical Claw,11,0,Black,Solid Colors,8,0.17
+54200,6104342,54200,Slope 30 1 x 1 x 2/3,68,484,Dark Orange,Solid Colors,16,0.21
+54200,4504378,54200,Slope 30 1 x 1 x 2/3,85,72,Dark Bluish Gray,Solid Colors,10,0.21
+54200,4504382,54200,Slope 30 1 x 1 x 2/3,11,0,Black,Solid Colors,37,0.21
+55013,4499858,55013,"Technic, Axle 8 with Stop",85,72,Dark Bluish Gray,Solid Colors,1,1.18
+64567,4598897,64567,"Minifigure, Weapon Lightsaber Hilt Straight",11,0,Black,Solid Colors,4,0.19
+4589b,4529236,4589b,Cone 1 x 1 with Top Groove,11,0,Black,Solid Colors,2,0.25
+6019,601926,6019,"Plate, Modified 1 x 1 with U Clip (Horizontal Grip)",11,0,Black,Solid Colors,20,0.25
+60470,4556158,60470,"Plate, Modified 1 x 2 with 2 U Clips (Horizontal Grip)",11,0,Black,Solid Colors,6,0.55
+60470b,6310268,60470b,"Plate, Modified 1 x 2 with 2 Open O Clips (Horizontal Grip)",11,0,Black,Solid Colors,14,0.55
+60471,4515340,60471,Hinge Plate 1 x 2 Locking with 2 Fingers on Side and 9 Teeth,11,0,Black,Solid Colors,64,0.48
+60474,4515350,60474,"Plate, Round 4 x 4 with Hole",11,0,Black,Solid Colors,6,1.6
+60479,4514845,60479,Plate 1 x 12,11,0,Black,Solid Colors,6,1.95
+6106,4106977,6106,"Wedge, Plate 6 x 6 Cut Corner",11,0,Black,Solid Colors,8,3.57
+6111,611126,6111,Brick 1 x 10,11,0,Black,Solid Colors,2,3.8
+6111,611121,6111,Brick 1 x 10,5,4,Red,Solid Colors,4,3.8
+61252,6308000,61252,"Plate, Modified 1 x 1 with Open O Clip (Horizontal Grip)",11,0,Black,Solid Colors,8,0.27
+6134,4124096,6134,Hinge Brick 2 x 2 Top Plate,11,0,Black,Solid Colors,6,0.47
+61409,4541191,61409,Slope 18 2 x 1 x 2/3 with 4 Slots,11,0,Black,Solid Colors,25,0.3
+61409,4540386,61409,Slope 18 2 x 1 x 2/3 with 4 Slots,85,72,Dark Bluish Gray,Solid Colors,30,0.3
+4073,614121,4073,"Plate, Round 1 x 1",5,4,Red,Solid Colors,4,0.12
+4073,4210633,4073,"Plate, Round 1 x 1",85,72,Dark Bluish Gray,Solid Colors,4,0.12
+3941,614321,3941,"Brick, Round 2 x 2 with Axle Hole",5,4,Red,Solid Colors,6,1.2
+61485,4517986,61485,"Turntable 4 x 4 Square Base, Locking",11,0,Black,Solid Colors,6,1.7
+63864,4558170,63864,Tile 1 x 3,11,0,Black,Solid Colors,25,0.39
+63864,4568734,63864,Tile 1 x 3,85,72,Dark Bluish Gray,Solid Colors,6,0.39
+63965,6170421,63965,Bar   6L with Stop Ring,11,0,Black,Solid Colors,2,0.44
+6558,,6558,"Technic, Pin 3L with Friction Ridges Lengthwise",5,4,Red,Solid Colors,36,0.31
+6636,663626,6636,Tile 1 x 6,11,0,Black,Solid Colors,14,0.83
+85861,6168646,85861,"Plate, Round 1 x 1 with Open Stud",11,0,Black,Solid Colors,8,0.1
+85984,4548180,85984,Slope 30 1 x 2 x 2/3,11,0,Black,Solid Colors,148,0.34
+85984,4567887,85984,Slope 30 1 x 2 x 2/3,85,72,Dark Bluish Gray,Solid Colors,2,0.34
+87079,4560182,87079,Tile 2 x 4,11,0,Black,Solid Colors,13,0.9
+87087,4558954,87087,"Brick, Modified 1 x 1 with Stud on 1 Side",11,0,Black,Solid Colors,3,0.45
+87580,6126048,87580,"Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)",5,4,Red,Solid Colors,2,0.5
+87580,4565323,87580,"Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)",11,0,Black,Solid Colors,6,0.5
+87620,4584274,87620,"Brick, Modified Facet 2 x 2",11,0,Black,Solid Colors,11,1.0
+87994,6093525,87994,Bar   3L (Bar Arrow),11,0,Black,Solid Colors,34,0.2
+4623b,6261355,4623b,"Plate, Modified 1 x 2 with Bar Arm Up (Horizontal Arm 5mm)",85,72,Dark Bluish Gray,Solid Colors,12,0
+88646,6076678,88646,"Tile, Modified 3 x 4 with 4 Studs in Center",11,0,Black,Solid Colors,7,1.52
+91988,6001494,91988,Plate 2 x 14,11,0,Black,Solid Colors,13,3.89
+92280,4598528,92280,"Plate, Modified 1 x 2 with Clip on Top",11,0,Black,Solid Colors,2,0.4
+92582,6265730,92582,Hinge Plate 2 x 2 Locking with 1 Finger on Top,11,0,Black,Solid Colors,12,0.75
+92593,4599499,92593,"Plate, Modified 1 x 4 with 2 Studs without Groove",11,0,Black,Solid Colors,52,0.61
+92593,6186047,92593,"Plate, Modified 1 x 4 with 2 Studs without Groove",68,484,Dark Orange,Solid Colors,22,0.61
+92593,4598769,92593,"Plate, Modified 1 x 4 with 2 Studs without Groove",85,72,Dark Bluish Gray,Solid Colors,12,0.61
+92946,6069000,92946,Slope 45 2 x 1 with 2/3 Cutout,11,0,Black,Solid Colors,48,0.42
+93061,6252202,93061,"Arm Skeleton, Bent with Clips at 90 degrees (Vertical Grip)",85,72,Dark Bluish Gray,Solid Colors,4,0.213
+93273,4613153,93273,"Slope, Curved 4 x 1 Double",11,0,Black,Solid Colors,76,0.6
+99563,6156991,99563,"Minifigure, Utensil Ingot / Bar",11,0,Black,Solid Colors,63,0.22
+99207,6000650,99207,Bracket 1 x 2 - 2 x 2 Inverted,11,0,Black,Solid Colors,8,0.8
+99780,6020193,99780,Bracket 1 x 2 - 1 x 2 Inverted,11,0,Black,Solid Colors,38,0.55
+99781,6016172,99781,Bracket 1 x 2 - 1 x 2,11,0,Black,Solid Colors,6,0.55
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+5110,4682.222,,,,,,,,
